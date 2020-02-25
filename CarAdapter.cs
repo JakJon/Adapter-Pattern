@@ -4,7 +4,7 @@ using System.Text;
 
 namespace adapterPattern
 {
-    class CarAdapter : CarInterface
+    public class CarAdapter : CarInterface
     {
         RacingCar racingCar = new RacingCar();
         public double getCarFuelCap()
