@@ -1,0 +1,11 @@
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.exe
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.deps.json
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.runtimeconfig.json
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.runtimeconfig.dev.json
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.dll
+F:\Projects\adapterPattern\adapterPattern\bin\Debug\netcoreapp3.1\adapterPattern.pdb
+F:\Projects\adapterPattern\adapterPattern\obj\Debug\netcoreapp3.1\adapterPattern.csprojAssemblyReference.cache
+F:\Projects\adapterPattern\adapterPattern\obj\Debug\netcoreapp3.1\adapterPattern.AssemblyInfoInputs.cache
+F:\Projects\adapterPattern\adapterPattern\obj\Debug\netcoreapp3.1\adapterPattern.AssemblyInfo.cs
+F:\Projects\adapterPattern\adapterPattern\obj\Debug\netcoreapp3.1\adapterPattern.dll
+F:\Projects\adapterPattern\adapterPattern\obj\Debug\netcoreapp3.1\adapterPattern.pdb

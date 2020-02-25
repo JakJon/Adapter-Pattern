@@ -4,7 +4,12 @@ using System.Text;
 
 namespace adapterPattern
 {
-    class carInterface
+    interface CarInterface
     {
+        public int getMaxSpeed();
+
+        public string getfullCarname();
+
+        public double getCarFuelCap();
     }
 }
